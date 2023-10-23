@@ -1,0 +1,23 @@
+* { 
+    font-family: serif;
+}
+
+.baner { 
+    background-color: linear-gradient(#97b498,#c8e6c9);
+    color: white;
+    text-align: center;
+    padding: 5px; 
+}
+
+.left { 
+    background-color: #c8e6c9;
+    width: 40%;
+    height: 600px;
+}
+
+.right { 
+    color: #005005;
+    width: 60%;
+    height: 600px;
+    overflow: scroll;
+}
